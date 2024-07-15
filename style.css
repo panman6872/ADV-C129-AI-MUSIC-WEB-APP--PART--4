@@ -1,0 +1,66 @@
+body{
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+margin-top: 0;
+border-radius: 20px;
+border-color: rgb(27, 26, 37);
+}
+:hover.heading{
+    font-size: 23px;
+    width: 100%;
+margin-top: 0;
+border-radius: 20px;
+border-color: black;
+}
+.e{
+    font-size: 15px;
+    color: white;
+}
+
+.div_speed
+{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_valume
+{
+    float: right;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button{
+    width: 130px;
+    font-size: 25px;
+    
+}
+.stop_button{
+    width: 130px;
+    font-size: 25px;
+    
+}
+
+canvas{
+    border: 5px;
+    border-color: black;
+    border-radius: 50px;
+}
